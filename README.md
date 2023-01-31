@@ -3,4 +3,4 @@
 
  Experimentando a linguagem PHP
  
- ~ Criando um CRUD ~
+ ~ Criando um CRUD

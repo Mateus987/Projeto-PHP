@@ -3,5 +3,5 @@
 
  Experimentando a linguagem PHP
  
- - ~ Levantando requisitos
+ - 👨‍💻 Levantando requisitos
  - ~ Criando um CRUD

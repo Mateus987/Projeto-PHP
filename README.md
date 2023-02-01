@@ -9,5 +9,5 @@
 
 -----------------------
 
-** Inicializar Projeto:<br>
+<h6>Inicializar Projeto:</h6><br>
 <code>php -S localhost:8000 teste.php</code>

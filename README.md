@@ -8,3 +8,5 @@
  - ⏳ Criando um CRUD
 
 -----------------------
+
+<code>php -S localhost:8000 teste.php</code>

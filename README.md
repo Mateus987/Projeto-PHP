@@ -6,7 +6,7 @@
  
  - ✅ Levantando requisitos
  - ⌛ Criando um CRUD
- - Estrutura Front-End
+ - ⏳ Estrutura Front-End
 
 -----------------------
 

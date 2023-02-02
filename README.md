@@ -4,8 +4,8 @@
 
 <h6> Experimentando a linguagem PHP </h6>
  
- - 👨‍💻 Levantando requisitos
- - U+25FB Criando um CRUD
+ - ✅ Levantando requisitos
+ - ◻ Criando um CRUD
 
 -----------------------
 

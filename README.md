@@ -11,4 +11,4 @@
 -----------------------
 
 <h6>Inicializar Projeto:</h6>
-<code>php -S localhost:8000 teste.php</code>
+<code>php -S localhost:8000 -t public</code>
